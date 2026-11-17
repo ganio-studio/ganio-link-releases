@@ -1,6 +1,6 @@
 {
- "version": "0.2.3",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.3.pkg",
- "sha256": "8d9afe62f830b6ab422784ae18fb99e2a91fde05e13ff369d5a4e3b9961016b5",
- "notes": "Test update: checks that Ganio Link can update itself."
+ "version": "0.2.4",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.4.pkg",
+ "sha256": "3d5fec9eb200c78823d012f3311066e31e715f0cb29932b34be6dbb63dbecd1c",
+ "notes": "Runs on older macOS (Sequoia and earlier); fixes Ganio Link not opening there."
 }
