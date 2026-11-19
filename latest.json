@@ -1,6 +1,6 @@
 {
- "version": "0.2.8",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.8.pkg",
- "sha256": "b02aea1c6f4662319f1f5697a0ea1cbbc07aed441dc241a681405677511e6292",
- "notes": "Sync opens closed Track Stacks with a real click on the stack arrow (newer Logic ignores the old method), checks that the tracks appeared, then closes the stacks again."
+ "version": "0.2.9",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.9.pkg",
+ "sha256": "6570755f5489c795188cc3e501a257d27939d592f15f64f4a823f9b2b7c7a4e0",
+ "notes": "EQ zones on Logic now cover drums too: full kit, kick, snare, toms, overheads, hi-hat, room mics and percussion, plus backing vocals, vocal doubles and the bus EQs. Coach me can check that your EQ move lands in the right zone instead of one exact number."
 }
