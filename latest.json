@@ -1,6 +1,6 @@
 {
- "version": "0.2.5",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.5.pkg",
- "sha256": "33f8e1b9ebfdd05766ffa99ec73672bdd6a75c471753d60ef57a78789151c8a3",
- "notes": "Finds the Open/Close Plug-in Window setting on more Logic versions; Logic 13 checked."
+ "version": "0.2.7",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.7.pkg",
+ "sha256": "bbdea77c9c98b2e2f5da4105b7c126161d33857a02abd0b491115b8637371225",
+ "notes": "Sync now opens closed Track Stacks reliably (it brings Logic forward and presses the stack arrow in view), so every track inside a stack links. Stacks Ganio opened are closed again afterwards."
 }
