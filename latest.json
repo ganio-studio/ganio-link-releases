@@ -1,6 +1,6 @@
 {
- "version": "0.2.9",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.2.9.pkg",
- "sha256": "6570755f5489c795188cc3e501a257d27939d592f15f64f4a823f9b2b7c7a4e0",
- "notes": "EQ zones on Logic now cover drums too: full kit, kick, snare, toms, overheads, hi-hat, room mics and percussion, plus backing vocals, vocal doubles and the bus EQs. Coach me can check that your EQ move lands in the right zone instead of one exact number."
+ "version": "0.3.0",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.0.pkg",
+ "sha256": "1d6bf76c11643928d8e6d76e10d4055000b31883a4ce1e3829c1139b0d78256e",
+ "notes": "New: Compressor guide. Open any Compressor in Logic and Ganio numbers the main knobs, explains each one beside the window, and paints the green gain-reduction target on the meter (the zones switch in the menu turns it off). Also: every EQ band dot shows during coaching, a Stop button is always on the coach bubble, and the EQ zones now match Ganio's settings (Attack, Snap, Presence, Air and more)."
 }
