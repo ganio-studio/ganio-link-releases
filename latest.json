@@ -1,6 +1,6 @@
 {
- "version": "0.3.0",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.0.pkg",
- "sha256": "1d6bf76c11643928d8e6d76e10d4055000b31883a4ce1e3829c1139b0d78256e",
- "notes": "New: Compressor guide. Open any Compressor in Logic and Ganio numbers the main knobs, explains each one beside the window, and paints the green gain-reduction target on the meter (the zones switch in the menu turns it off). Also: every EQ band dot shows during coaching, a Stop button is always on the coach bubble, and the EQ zones now match Ganio's settings (Attack, Snap, Presence, Air and more)."
+ "version": "0.3.2",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.2.pkg",
+ "sha256": "7e91cb3c2a1b4aa231478d308da33466dfae9739deebe7e0e206c1e46f7ed6d1",
+ "notes": "Fixes: clicks on Logic's track list were sometimes blocked by an invisible coach bubble; that's gone. Compressor: Coach me sets Threshold on the needle meter before Make Up and has a Back button; the green band now sits on the meter's scale; the guide panel shows all five knobs in coaching order (Ratio, Attack, Release, Threshold, Make Up) and stays on screen."
 }
