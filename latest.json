@@ -1,6 +1,6 @@
 {
- "version": "0.4.1",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.1.pkg",
- "sha256": "4cd5d938bb0c9cd02f059787474d706778e78c42a33d80c7c1e145c00ef06952",
- "notes": "Mastering Assistant: Ganio can now click Reanalyze Section for you and read the new curve when it finishes, and can turn Loudness and Width up or down in Logic's own small steps. Also reads its EQ curve, True Peak, LUFS and Correlation."
+ "version": "0.4.2",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.2.pkg",
+ "sha256": "6adcb612f8754e265908431de785a2b828026d605b0eb96755b3da1acc0f4f94",
+ "notes": "New: Ganio can mute and unmute tracks (for Find what's causing it in Balance Check) and can tell when any track is soloed, so it can warn you before reading Mastering Assistant."
 }
