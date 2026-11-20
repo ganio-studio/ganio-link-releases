@@ -1,6 +1,6 @@
 {
- "version": "0.3.4",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.4.pkg",
- "sha256": "0bbad4c1490ba250582750bda4f0b895f3e385f26bcc4ec9928d20525f94b825",
- "notes": "Fixes: Capture from Logic read the wrong strip when a Track Stack was closed (strip numbers shift, so Lead Vocal became Master and every plug-in showed Not in Logic). Link now opens closed stacks, re-reads the track list, captures, then closes them again. Also: if Logic's controller is stuck in Channel Strip view (Pan, -, -, \u2026), Link switches it back before reading, and alerts on screen during a scan are ignored."
+ "version": "0.3.5",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.5.pkg",
+ "sha256": "b351e9ff5e2f74cd607cafbb59eaa89f7d6102cbcd2af366125dff32ae82b9fa",
+ "notes": "Fix: after Capture from Logic or a background read, the last plug-in window (like DeEsser) was left open. Link now closes it, unless you already had a plug-in window open before the read. Also adds a read-only test that lists what Logic's Mastering Assistant shows, for Ganio's upcoming Master check."
 }
