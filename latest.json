@@ -1,6 +1,6 @@
 {
- "version": "0.3.3",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.3.pkg",
- "sha256": "d4dc9c6af0fe61b509a1f9cdb7c227bb11954dd85e7d3e0519bdef2685b95b99",
- "notes": "Fix: if a Logic alert (like \"Speakers will be used instead for this session\") was on screen during a scan, Ganio Link saved the alert text as your track list, so Capture from Logic and Send pans failed with \"no track at position\". Link now ignores bad reads, keeps the last good track list, and rescans before giving up."
+ "version": "0.3.4",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.4.pkg",
+ "sha256": "0bbad4c1490ba250582750bda4f0b895f3e385f26bcc4ec9928d20525f94b825",
+ "notes": "Fixes: Capture from Logic read the wrong strip when a Track Stack was closed (strip numbers shift, so Lead Vocal became Master and every plug-in showed Not in Logic). Link now opens closed stacks, re-reads the track list, captures, then closes them again. Also: if Logic's controller is stuck in Channel Strip view (Pan, -, -, \u2026), Link switches it back before reading, and alerts on screen during a scan are ignored."
 }
