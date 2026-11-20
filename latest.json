@@ -1,6 +1,6 @@
 {
- "version": "0.3.2",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.2.pkg",
- "sha256": "7e91cb3c2a1b4aa231478d308da33466dfae9739deebe7e0e206c1e46f7ed6d1",
- "notes": "Fixes: clicks on Logic's track list were sometimes blocked by an invisible coach bubble; that's gone. Compressor: Coach me sets Threshold on the needle meter before Make Up and has a Back button; the green band now sits on the meter's scale; the guide panel shows all five knobs in coaching order (Ratio, Attack, Release, Threshold, Make Up) and stays on screen."
+ "version": "0.3.3",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.3.pkg",
+ "sha256": "d4dc9c6af0fe61b509a1f9cdb7c227bb11954dd85e7d3e0519bdef2685b95b99",
+ "notes": "Fix: if a Logic alert (like \"Speakers will be used instead for this session\") was on screen during a scan, Ganio Link saved the alert text as your track list, so Capture from Logic and Send pans failed with \"no track at position\". Link now ignores bad reads, keeps the last good track list, and rescans before giving up."
 }
