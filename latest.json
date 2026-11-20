@@ -1,6 +1,6 @@
 {
- "version": "0.4.2",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.2.pkg",
- "sha256": "6adcb612f8754e265908431de785a2b828026d605b0eb96755b3da1acc0f4f94",
- "notes": "New: Ganio can mute and unmute tracks (for Find what's causing it in Balance Check) and can tell when any track is soloed, so it can warn you before reading Mastering Assistant."
+ "version": "0.4.4",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.4.pkg",
+ "sha256": "ebf4167a7f513fc00d108e85d335480f6e2e8a393ace48fa36c13bf85052a556",
+ "notes": "Fix: reading Mastering Assistant's EQ curve often came back empty when a dB label was misread. Link now double-checks the scale and falls back to the graph's fixed shape. Also: mute answers say whether a track was already muted."
 }
