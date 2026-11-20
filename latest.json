@@ -1,6 +1,6 @@
 {
- "version": "0.3.8",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.3.8.pkg",
- "sha256": "e2c757e1859772a9543f53577e912d4e3082f25d215f9ac844c4206966feacca",
- "notes": "New (read-only test): Ganio Link can read Logic's Mastering Assistant: its EQ curve, True Peak, LUFS, Correlation and Auto EQ amount, for Ganio's upcoming Master check. Nothing in your song is changed."
+ "version": "0.4.1",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.1.pkg",
+ "sha256": "4cd5d938bb0c9cd02f059787474d706778e78c42a33d80c7c1e145c00ef06952",
+ "notes": "Mastering Assistant: Ganio can now click Reanalyze Section for you and read the new curve when it finishes, and can turn Loudness and Width up or down in Logic's own small steps. Also reads its EQ curve, True Peak, LUFS and Correlation."
 }
