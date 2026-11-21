@@ -1,6 +1,6 @@
 {
- "version": "0.4.6",
- "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.6.pkg",
- "sha256": "18a74e38130a39d440a1725e837ca12f783341315843019d2c31f904c68b59c7",
- "notes": "Fix: reading Mastering Assistant's EQ curve often came back empty when a dB label was misread. Link now double-checks the scale and falls back to the graph's fixed shape. Also: mute answers say whether a track was already muted."
+ "version": "0.4.7",
+ "pkg_url": "https://raw.githubusercontent.com/ganio-studio/ganio-link-releases/main/releases/Ganio-Link-0.4.7.pkg",
+ "sha256": "1c87158f5221bc22c51e61bf05405b8c6ef7a738eadc2867682320125c6b06f2",
+ "notes": "New: the Ganio Assistant. The Ganio logo now floats beside Logic: tap it for a panel with your song's next step, every mix pass and chain, Watch it happen / Your turn sends, and \u201cHow does it sound?\u201d buttons. Open a Channel EQ and the panel offers help for that track. Pin it to the side of the screen and Logic makes room. Also: Ganio Link has its real app icon, and Dial it in closes cleanly on \u201cSounds good\u201d."
 }
